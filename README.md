@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @samyam81
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Please, don't.
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Samyam Subedi.
+- 👀 I’m interested in programming and coding. 
+- 🌱 I’m currently learning JAVA and its different framework.
+- 💞️ I’m looking to collaborate on different framework of Java.
+- 📫 How to reach me? You can DM me on Instagram at Samyam.14
+- ⚡ Fun fact:.
 
 <!---
 samyam81/samyam81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
