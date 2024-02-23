@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding. 
 - 🌱 I’m currently learning JAVA and its different framework.
 - 💞️ I’m looking to collaborate on different framework of Java.
-- 📫 How to reach me? You can DM me on Instagram at Samyam.14
+- 📫 How to reach me?
 - ⚡ Fun fact:.
 
 <!---
