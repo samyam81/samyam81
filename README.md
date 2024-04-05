@@ -1,11 +1,20 @@
-- 👋 Hi, I’m Samyam Subedi.
-- 👀 I’m interested in programming and coding. 
-- 🌱 I’m currently learning JAVA and its different framework.
-- 💞️ I’m looking to collaborate on different framework of Java.
-- 📫 How to reach me?
-- ⚡ Fun fact:.
+### Hi there 👋, my name is Samyam
+#### I am Interested in Programming.
+![I am Interested in Programming.](h)
 
-<!---
-samyam81/samyam81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+a Java developer passionate about crafting robust and efficient software solutions.
+
+Skills: Primaryly JAVA || HTML||CSS
+
+- 🔭 I’m currently working on Myself. 
+- 🌱 I’m currently learning different framework of JAVA. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samyam81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samyam-subedi-1396b92a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samyam07)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/samyam81)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=samyam81)  
+
