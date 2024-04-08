@@ -2,7 +2,7 @@
 #### I am Interested in Programming.
 ![I am Interested in Programming.](h)
 
-a Java developer passionate about crafting robust and efficient software solutions.
+a Java developer passionate about life..............
 
 Skills: Primaryly JAVA || HTML||CSS
 
