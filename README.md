@@ -4,7 +4,7 @@
 
 a Java developer passionate about life..............
 
-Skills: Primaryly JAVA || HTML||CSS
+Skills: Primaryly JAVA 
 
 - 🔭 I’m currently working on Myself. 
 - 🌱 I’m currently learning different framework of JAVA. 
