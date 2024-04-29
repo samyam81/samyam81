@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Samyam
 #### I am Interested in Programming.
-![I am Interested in Programming.](h)
 
 a Java developer passionate about life..............
 
