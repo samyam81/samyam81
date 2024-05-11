@@ -19,4 +19,4 @@ Skills: Primaryly JAVA
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=samyam81)  
 
-![](https://leetcard.jacoblin.cool/samyam21?site=cn)
+![](https://leetcard.jacoblin.cool/samyam21?font=Dancing_Script)
