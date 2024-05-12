@@ -17,6 +17,8 @@ Skills: Primaryly JAVA
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en" alt="samyam81" /></p>
 
+![](https://komarev.com/ghpvc/?username=samyam81&style=flat-square)
+
 ![GitHub metrics](https://metrics.lecoq.io/samyam81)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=samyam81)  
