@@ -15,6 +15,8 @@ Skills: Primaryly JAVA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en" alt="samyam81" /></p>
+
 ![GitHub metrics](https://metrics.lecoq.io/samyam81)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=samyam81)  
