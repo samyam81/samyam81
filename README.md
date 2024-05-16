@@ -9,11 +9,9 @@
 🔗 **Let's connect:** 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07)
 
-#### GitHub Stats:
-- **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)
-- **GitHub Stats:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en&theme=dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en&theme=dark)
 
-🌟 **LeetCode Stats:**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/samyam21?theme=unicorn)
 
 Feel free to reach out and let's code something awesome together!
