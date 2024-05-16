@@ -21,6 +21,6 @@ Skills: Primaryly JAVA
 
 ![GitHub metrics](https://metrics.lecoq.io/samyam81)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=samyam81)  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png" alt="GitHub Streak" /></a>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/samyam21?theme=unicorn)
