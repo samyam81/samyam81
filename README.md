@@ -9,14 +9,14 @@
 🔗 Let's connect: 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07)
 
-📊 **GitHub Stats:**
+#### GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en&theme=dark)
 
-📈 **Additional Metrics:**
-![Profile Views](https://komarev.com/ghpvc/?username=samyam81&style=flat-square) <br>
-![GitHub Metrics](https://metrics.lecoq.io/samyam81)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png)
+#### Additional Metrics:
+- Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=samyam81&style=flat-square)
+- GitHub Metrics: ![GitHub Metrics](https://metrics.lecoq.io/samyam81)
+- GitHub Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png)
 
 🌟 **LeetCode Stats:**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/samyam21?theme=unicorn)
