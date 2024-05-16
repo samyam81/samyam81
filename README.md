@@ -14,7 +14,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en&theme=dark)
 
 📈 **Additional Metrics:**
-![Profile Views](https://komarev.com/ghpvc/?username=samyam81&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=samyam81&style=flat-square) <br>
 ![GitHub Metrics](https://metrics.lecoq.io/samyam81)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png)
 
