@@ -1,28 +1,24 @@
-### Hi there 👋, my name is Samyam
-#### I am Interested in Programming.
+### Hey there! 👋 I'm Samyam, a Java enthusiast and developer, passionate about coding and life's adventures.
 
-a Java developer passionate about life..............
+🚀 Currently, I'm focusing on self-improvement and diving deep into various Java frameworks to broaden my skill set.
 
-Skills: Primaryly JAVA 
+🌱 I'm fluent in Java, with a primary focus on mastering its intricacies and exploring its vast ecosystem.
 
-- 🔭 I’m currently working on Myself. 
-- 🌱 I’m currently learning different framework of JAVA.
+🛠️ Tools & Technologies: Java, C++, C#, MySQL, PostgreSQL
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+🔗 Let's connect: 
+[GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07)
 
+📊 **GitHub Stats:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en&theme=dark)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samyam81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samyam-subedi-1396b92a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samyam07)  
+📈 **Additional Metrics:**
+![Profile Views](https://komarev.com/ghpvc/?username=samyam81&style=flat-square)
+![GitHub Metrics](https://metrics.lecoq.io/samyam81)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81)
+🌟 **LeetCode Stats:**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/samyam21?theme=unicorn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyam81)]
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyam81&show_icons=true&locale=en" alt="samyam81" /></p>
-
-![](https://komarev.com/ghpvc/?username=samyam81&style=flat-square)
-
-![GitHub metrics](https://metrics.lecoq.io/samyam81)  
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samyam81&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&type=png" alt="GitHub Streak" /></a>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/samyam21?theme=unicorn)
+Feel free to reach out and let's code something awesome together!
