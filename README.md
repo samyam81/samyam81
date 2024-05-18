@@ -4,8 +4,6 @@
 
 🌱 I'm fluent in Java, with a primary focus on mastering its intricacies and exploring its vast ecosystem.
 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" data-canonical-src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 
 🛠️ **Tools & Technologies:** Java, C++, C#, MySQL, PostgreSQL
 
