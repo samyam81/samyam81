@@ -20,4 +20,4 @@
 
 Feel free to reach out and let's code something awesome together!
 
-<img src="https://github-readme-stats.vercel.app/api?username=samyam81&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="samyam81's GitHub Stats" />
+
