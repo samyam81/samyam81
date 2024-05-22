@@ -7,6 +7,8 @@
 
 🛠️ **Tools & Technologies:** Java, C++, C#, MySQL, PostgreSQL
 
+<a href="https://www.medium.com/@samyam081" rel="nofollow">Explore the Chronicles of my Pen</a>
+
 🔗 **Let's connect:** 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07)
 
