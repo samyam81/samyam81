@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=samyam81&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Hey there! 👋 I'm Samyam, a Java enthusiast and developer, passionate about coding and life's adventures.
 
 🚀 Currently, I'm focusing on self-improvement and diving deep into various Java frameworks to broaden my skill set.
