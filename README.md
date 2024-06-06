@@ -40,8 +40,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=samyam081&theme=shades-of-purple" alt="Layout with last medium posts"  />
-</div>
 
 
