@@ -12,8 +12,7 @@
 🔗 **Let's connect:** 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam81&layout=compact)
 
  
 <div align="left">
