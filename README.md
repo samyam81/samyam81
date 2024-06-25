@@ -54,7 +54,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam81&theme=dark" alt="Samyam's GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lapor?ext=contest" alt="LeetCode Contest Card" />
-</div>
