@@ -1,7 +1,7 @@
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=samyam81&theme=onedark&no-frame=true&margin-w=30" alt="Samyam's trophies" />
+    <img height="200em" src="https://github-profile-trophy.vercel.app/?username=samyam81&theme=onedark&no-frame=true&margin-w=30" alt="Samyam's trophies" />
   </a>
 </div>
 
@@ -43,14 +43,18 @@
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samyam81&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Samyam's Language stats" />
+    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samyam81&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Samyam's Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samyam81&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Samyam's Github stats" />
+    <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samyam81&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Samyam's Github stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam81&theme=dark" alt="Samyam's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam81&theme=dark" height="200em" alt="Samyam's GitHub Streak" />
 </div>
+
+# Quote
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
