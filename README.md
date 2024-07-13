@@ -1,4 +1,4 @@
-<!-- Dark Mode -->
+<!-- Dark Mode  -->
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img height="200em" src="https://github-profile-trophy.vercel.app/?username=samyam81&theme=onedark&no-frame=true&margin-w=30" alt="Samyam's trophies" />
