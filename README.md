@@ -5,6 +5,8 @@
   </a>
 </div>
 
+![](https://leetcard.jacoblin.cool/samyam21?border=0&radius=20)
+
 ### Hey there! 👋 I'm Samyam, a Java enthusiast and developer, passionate about coding and life's adventures.
 
 🚀 Currently, I'm focusing on self-improvement and diving deep into various Java frameworks to broaden my skill set.
@@ -15,7 +17,7 @@
 
 🔗 **Let's connect:** 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07) | [LeetCode](https://leetcode.com/u/samyam21/)
- 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
