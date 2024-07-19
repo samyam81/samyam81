@@ -1,3 +1,4 @@
+## Github-Profile-Trophy
 <!-- Dark Mode  -->
 <div align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -5,9 +6,10 @@
   </a>
 </div>
 
-# LeetCode Profile
+## LeetCode Profile
 ![](https://leetcard.jacoblin.cool/samyam21?border=0&radius=20)
 
+## Introduction
 ### Hey there! 👋 I'm Samyam, a Java enthusiast and developer, passionate about coding and life's adventures.
 
 🚀 Currently, I'm focusing on self-improvement and diving deep into various Java frameworks to broaden my skill set.
@@ -19,6 +21,7 @@
 🔗 **Let's connect:** 
 [GitHub](https://github.com/samyam81) | [LinkedIn](https://www.linkedin.com/in/samyam-subedi-1396b92a8/) | [Facebook](https://www.facebook.com/samyam07) | [LeetCode](https://leetcode.com/u/samyam21/)
 
+## Skills and Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -43,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
+## Github-stats
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -53,6 +57,7 @@
   </a>
 </div>
 
+## GitHub Streak
 <!-- Dark Mode -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyam81&theme=dark" height="200em" alt="Samyam's GitHub Streak" />
