@@ -5,6 +5,7 @@
   </a>
 </div>
 
+# LeetCode Profile
 ![](https://leetcard.jacoblin.cool/samyam21?border=0&radius=20)
 
 ### Hey there! 👋 I'm Samyam, a Java enthusiast and developer, passionate about coding and life's adventures.
