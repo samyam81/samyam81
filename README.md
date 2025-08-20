@@ -65,12 +65,6 @@ Currently pursuing my **Bachelor of Science in Computer Science and Information 
 - Real-time inventory and order management
 - Role-based authentication for different user types
 
-## 📈 GitHub Stats
-
-![Samyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyamsubedi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyamsubedi&layout=compact&theme=radical)
-
 ## 🌟 Core Competencies
 
 - **Backend Development**: ASP.NET Core, RESTful APIs, Microservices
@@ -84,7 +78,6 @@ Currently pursuing my **Bachelor of Science in Computer Science and Information 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyamsubedi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyam081@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9779843999347)
 
 ---
 
