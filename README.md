@@ -4,7 +4,7 @@
 
 I'm an **innovative tech enthusiast** and **Full Stack .NET Developer** passionate about building scalable, high-performance web applications. With a strong foundation in backend development using the .NET Core Framework, I thrive in collaborative environments where I can contribute to creating powerful software solutions that meet the demands of modern applications.
 
-Currently pursuing my **Bachelor of Science in Computer Science and Information Technology** at Patan Multiple Campus, while working as a Full Stack Developer at **Aster Innovations**.
+Currently pursuing my **Bachelor of Science in Computer Science and Information Technology** at Patan Multiple Campus, while working as a Full Stack Developer at **Digital Age Nepal**.
 
 ## 💼 Professional Experience
 
