@@ -8,7 +8,7 @@ Currently pursuing my **Bachelor of Science in Computer Science and Information 
 
 ## 💼 Professional Experience
 
-**Full Stack .NET Developer** at **Aster Innovations** *(Nov 2024 - Present)*
+**Full Stack .NET Developer** at **Aster Innovations** *(Nov 2024 - June 2025)*
 - Developing scalable web applications using .NET Core/Framework with C# and MS SQL Server
 - Building dynamic React frontends integrated with robust .NET backend services
 - Designing multi-tenant architectures for CMS platforms
