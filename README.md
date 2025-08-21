@@ -40,13 +40,6 @@ Currently pursuing my **Bachelor of Science in Computer Science and Information 
 
 ## 🎯 Featured Projects
 
-### 🏢 **Aster CMS** - Multitenant Headless CMS
-*ASP.NET Core | Entity Framework | SQL Server | Kendo UI*
-- Scalable multitenant architecture with secure client management
-- Real-time media upload with validation and preview
-- Multilingual support (English, Nepali, Dutch)
-- Clean Architecture implementation with role-based access control
-
 ### 📚 **E-Learning Platform** - Role-Based Learning System
 *Blazor Server | ASP.NET Core | Entity Framework Core*
 - Dynamic learning application supporting multiple user roles
